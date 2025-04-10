@@ -21,6 +21,13 @@
 - [Object Storage bucket](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/storage_bucket).
 - [KMS key](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/kms_symmetric_key).
 
+
+![alt text](https://github.com/MaratKN/clopro-homeworks-03/blob/main/1.png)
+![alt text](https://github.com/MaratKN/clopro-homeworks-03/blob/main/2.png)
+![alt text](https://github.com/MaratKN/clopro-homeworks-03/blob/main/3.png)
+![alt text](https://github.com/MaratKN/clopro-homeworks-03/blob/main/4.png)
+
+
 --- 
 ## Задание 2*. AWS (задание со звёздочкой)
 
